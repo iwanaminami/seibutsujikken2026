@@ -1,1 +1,54 @@
-# seibutsujikken2026
+# 名古屋大学前期・生物学実験 / Laboratory in Biology (B)
+
+2026年6月23日(火)  
+Tuesday, June 23, 2026
+
+## 演習 / Exercise
+
+### プログラミングの演習の資料 / Notebook for the programing exercise
+
+以下のボタンからGoogle Golabでノートブックを開いてください。  
+Open notebook on Google Colab with below button.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iwanaminami/seibutsujikken2026/blob/main/moranprocess.ipynb)
+
+#### インターネットアクセス / Internet access
+
+NUWNET
+
+https://icts.nagoya-u.ac.jp/ja/services/nuwnet/
+
+
+#### Googleアカウント / Google account
+
+Google Colaboratoryで実行するためには自身のGoogleアカウントでのログインが必要です。  
+To run this in Google Colaboratory, you need to be signed in with your Google account.
+
+Googleのサービス（GmailやYouTubeなど）にログインしているなら持っていると考えられます。  
+If you are already logged into Google services (such as Gmail or YouTube), you likely already have one.
+
+Googleアカウント情報はこちらから閲覧できません。  
+Your Google account information cannot be accessed.
+
+持っていなければ以下から作成できます。  
+If you do not have one, you can create it from the following link:
+
+[https://www.google.com/accounts/NewAccount?hl=ja](https://www.google.com/accounts/NewAccount?hl=ja)
+
+## レポート / Report
+
+[テンプレート](https://docs.google.com/document/d/1CTG2R7NVPszWkvhlbNx5S1Z3ShnCYLNMNKorFNO-dO8/edit?usp=sharing)
+
+TACTの課題から回答する形で提出  
+Submit through `Assignments` on the TACT.
+
+締め切り：2026年x月x日(x) 22時  
+Deadline: 10:00 PM on xx, xx x, 2026
+
+## 連絡先
+
+- TACTを通じて連絡  
+Through TACT.
+- ウェブサイト記載のメールアドレスに連絡  
+  To the email address on website.
+  - https://iblab.bio.nagoya-u.ac.jp/members/detail/s.iwanami
