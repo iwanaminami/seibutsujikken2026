@@ -22,28 +22,24 @@ https://icts.nagoya-u.ac.jp/ja/services/nuwnet/
 #### Googleアカウント / Google account
 
 Google Colaboratoryで実行するためには自身のGoogleアカウントでのログインが必要です。  
-To run this in Google Colaboratory, you need to be signed in with your Google account.
-
 Googleのサービス（GmailやYouTubeなど）にログインしているなら持っていると考えられます。  
-If you are already logged into Google services (such as Gmail or YouTube), you likely already have one.
-
-Googleアカウント情報はこちらから閲覧できません。  
-Your Google account information cannot be accessed.
-
 持っていなければ以下から作成できます。  
-If you do not have one, you can create it from the following link:
 
-[https://www.google.com/accounts/NewAccount?hl=ja](https://www.google.com/accounts/NewAccount?hl=ja)
+To execute programs on Google Colaboratory, authenticating with your own Google account is required.  
+If you are already signed in to other Google services, such as Gmail or YouTube, you are presumed to possess a valid account.  
+If you do not currently possess an account, you can create one via the link provided below.
+
+[https://www.google.com/accounts/NewAccount](https://www.google.com/accounts/NewAccount)
 
 ## レポート / Report
 
 [テンプレート](https://docs.google.com/document/d/1CTG2R7NVPszWkvhlbNx5S1Z3ShnCYLNMNKorFNO-dO8/edit?usp=sharing)
 
 TACTの課題から回答する形で提出  
-Submit through `Assignments` on the TACT.
+締め切り：2026年6月30日(火) 22時
 
-締め切り：2026年x月x日(x) 22時  
-Deadline: 10:00 PM on xx, xx x, 2026
+Submit through `Assignments` on the TACT.  
+Deadline: 10:00 PM on Tuesday, June 30, 2026
 
 ## 連絡先
 
@@ -52,3 +48,4 @@ Through TACT.
 - ウェブサイト記載のメールアドレスに連絡  
   To the email address on website.
   - https://iblab.bio.nagoya-u.ac.jp/members/detail/s.iwanami
+  - https://iblab.bio.nagoya-u.ac.jp/members/detail/r.yoshimura
