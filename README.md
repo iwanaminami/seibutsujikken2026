@@ -33,7 +33,7 @@ If you do not currently possess an account, you can create one via the link prov
 
 ## レポート / Report
 
-[テンプレート](https://docs.google.com/document/d/1CTG2R7NVPszWkvhlbNx5S1Z3ShnCYLNMNKorFNO-dO8/edit?usp=sharing)
+[レポートテンプレート / Report template](https://docs.google.com/document/d/1CTG2R7NVPszWkvhlbNx5S1Z3ShnCYLNMNKorFNO-dO8/edit?usp=sharing)
 
 TACTの課題から回答する形で提出  
 締め切り：2026年6月30日(火) 22時
